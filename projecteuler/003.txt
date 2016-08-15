@@ -1,0 +1,5 @@
+//Solution: 6857
+
+//http://www.numberempire.com/numberfactorizer.php
+//Number: 600851475143
+//Factorization: 71*839*1471*6857
